@@ -1,1 +1,2 @@
-you can redefine what origin points to as you wish, or create new alias for different remotes
+you can redefine what origin points to as you wish. 
+you can also create different aliases for different remotes
