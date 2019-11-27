@@ -1,0 +1,3 @@
+It is a good practice to always use PRESENT tense in commit messages. 
+
+
