@@ -1,0 +1,6 @@
+here I am sharing a useful Git option which I use
+a lot: git commit -v
+
+this shows me the code that I am about to commit in the same
+editor where I edit the commit log message (sometimes
+I forget variable names and such).
